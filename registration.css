@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+#container{
+    display: flex;
+    text-align: center;
+    padding: 50px;
+    margin: 10px;
+    background-color: antiquewhite;
+}
+#first{
+    padding: 0px;
+    align-items:flex-start ;
+}
+#second{
+    padding-top: 10px;
+    align-items: flex-end;
+    padding-left: 850px;
+}

@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+#container{
+    display: block;
+    text-align: center;
+    padding: 50px;
+    border: 2px solid;
+    margin: 10px;
+    background-color: antiquewhite;
+}
+p{
+    display: inline;
+}
+a{
+    text-decoration:none;
+    color: red;
+}
